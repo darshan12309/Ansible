@@ -4,4 +4,4 @@
     tasks:
         -
             name: 'Execute a date command'
-            command: mkdir /folder creates=/folder
+            script: /tmp/test.sh
