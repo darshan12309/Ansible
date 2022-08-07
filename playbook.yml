@@ -5,3 +5,4 @@
         -
             name: 'Execute a date command'
             script: /tmp/test.sh
+            become : yes
