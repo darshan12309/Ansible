@@ -4,4 +4,4 @@
     tasks:
         -
             name: 'Execute a date command'
-            command: date
+            command: echo "Hi"
