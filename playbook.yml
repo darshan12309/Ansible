@@ -5,4 +5,4 @@
     tasks:
         -
             name: 'Execute a date command'
-            script: /tmp/test.sh
+            command: systemctl stop jenkins
