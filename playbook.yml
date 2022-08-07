@@ -4,4 +4,4 @@
     tasks:
         -
             name: 'Execute a date command'
-            command: touch /home/gcptrial00/test
+            command: mkdir /folder creates=/folder
