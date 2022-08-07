@@ -5,4 +5,3 @@
         -
             name: 'Execute a date command'
             script: /home/gcptrial00/test.sh
-            become : yes
