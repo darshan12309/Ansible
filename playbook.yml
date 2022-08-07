@@ -5,9 +5,3 @@
         -
             name: 'Execute a date command'
             command: date
-        -
-            name: 'Create a new user'
-            user:
-                name: web_user
-                uid: 1040
-                group: developers
