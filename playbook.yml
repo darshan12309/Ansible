@@ -4,5 +4,5 @@
     tasks:
         -
             name: 'Execute a date command'
-            script: /tmp/test.sh
+            script: /home/gcptrial00/test.sh
             become : yes
