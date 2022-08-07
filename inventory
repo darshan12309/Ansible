@@ -1,4 +1,6 @@
+sql_db1 ansible_host=34.173.76.168 ansible_connection=ssh ansible_user=gcptrial00 ansible_ssh_pass=Welcome
+
 localhost
 
 [test]
-10.128.0.57
+sql_db1
