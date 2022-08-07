@@ -1,4 +1,4 @@
 localhost
 
 [test]
-34.173.76.168
+web1 ansible_host=34.173.76.168 ansible_ssh_pass=Welcome
