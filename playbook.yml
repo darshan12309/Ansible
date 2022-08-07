@@ -1,6 +1,6 @@
 -
     name: 'Execute a date command on localhost'
-    hosts: localhost
+    hosts: web1
     tasks:
         -
             name: 'Execute a date command'
