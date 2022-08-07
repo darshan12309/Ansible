@@ -1,4 +1,4 @@
 localhost
 
 [test]
-https://console.cloud.google.com/compute/instancesDetail/zones/us-central1-a/instances/instance-2?project=skilful-reserve-349011
+10.128.0.57
