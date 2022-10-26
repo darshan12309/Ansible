@@ -1,3 +1,2 @@
 [test]
 test1 ansible_host=34.132.17.115 ansible_user=gcptrial02 ansible_connection=ssh
-test2 ansible_host=34.121.7.185 ansible_user=gcptrial02 ansible_connection=ssh
